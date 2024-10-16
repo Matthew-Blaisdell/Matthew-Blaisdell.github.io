@@ -17,3 +17,28 @@ hola:
   label: Hola
   permalink: /hola
   description: Hola tag description
+
+Announcement:
+  label: Announcement
+  permalink: /announcement
+  description: Keep an eye out for these!
+
+Side Project:
+  label: Side Project
+  permalink: /side_project
+  description: This article is about one of my side projects!
+
+SS13:
+  label: SS13
+  permalink: /SS13
+  description: This article contains information related to the game "Space Station 13".
+
+Game Design:
+  label: Game Design
+  permalink: /game_design
+  description: This article contains wisdom related to game design.
+
+Experiment:
+  label: Experiment 👨‍🔬
+  permalink: /experiment
+  description: This article mentions one of my many experiments, which typically has no end goal in mind.

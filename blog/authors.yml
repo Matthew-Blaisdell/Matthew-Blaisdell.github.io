@@ -8,6 +8,12 @@ yangshun:
     x: yangshunz
     github: yangshun
 
+Matthew Blaisdell:
+  name: Matthew Blaisdell
+  title: Software Developer and Main Author
+  image_url: https://github.com/Matthew-Blaisdell.png
+  page: true
+
 slorber:
   name: Sébastien Lorber
   title: Docusaurus maintainer
